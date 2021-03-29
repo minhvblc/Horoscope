@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - SideMenu (6.5.0)
+  - SwiftyXMLParser (5.0.0)
+  - SWXMLHash (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Localize-Swift
+  - SideMenu
+  - SwiftyXMLParser
+  - SWXMLHash
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Localize-Swift
+    - SideMenu
+    - SwiftyXMLParser
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwiftyXMLParser: 5ebb8793192f403fa8cc691045143906122a7a75
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+
+PODFILE CHECKSUM: c764cd17e18ab136b7f0def237bf7af30e506050
+
+COCOAPODS: 1.10.1

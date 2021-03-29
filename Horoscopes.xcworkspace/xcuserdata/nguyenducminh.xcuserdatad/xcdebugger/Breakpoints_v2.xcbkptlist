@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB775E37-E6FA-4913-A98A-50487DBF174A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ECD8934-450D-4E8E-995B-7F4DBD757D0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/ViewControllerDruidHoroscope.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F479FBEF-8FDF-47CF-8A3E-DEC3B351D80B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/ViewControllerDruidHoroscope.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E5E9D9A-B2C3-4B8C-94F9-5BCCE842ADC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/ViewControllerDruidHoroscope.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewControllerDruidHoroscope"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9E5E9D9A-B2C3-4B8C-94F9-5BCCE842ADC8 - ce3c1a372d19f512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.ViewControllerDruidHoroscope.__deallocating_deinit"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/ViewControllerDruidHoroscope.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "9E5E9D9A-B2C3-4B8C-94F9-5BCCE842ADC8 - a385808be552164b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.ViewControllerDruidHoroscope.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Horoscopes.ViewControllerDruidHoroscope"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/ViewControllerDruidHoroscope.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "9E5E9D9A-B2C3-4B8C-94F9-5BCCE842ADC8 - 62ed3de157cbd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.ViewControllerDruidHoroscope.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Horoscopes.ViewControllerDruidHoroscope"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/ViewControllerDruidHoroscope.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "9E5E9D9A-B2C3-4B8C-94F9-5BCCE842ADC8 - 95d1a7eee51487e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.ViewControllerDruidHoroscope.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Horoscopes.ViewControllerDruidHoroscope&gt;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/ViewControllerDruidHoroscope.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "9E5E9D9A-B2C3-4B8C-94F9-5BCCE842ADC8 - eb924aa4f5756749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.ViewControllerDruidHoroscope.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Horoscopes.ViewControllerDruidHoroscope&gt;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/ViewControllerDruidHoroscope.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "741E6392-3120-48E1-B0A1-D7A550E439F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/ViewControllerDruidHoroscope.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "ViewControllerDruidHoroscope"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8EDCDC3-AAFA-4273-8CFC-638A7FE7C6A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/ViewControllerDruidHoroscope.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE706125-9237-488C-BA3D-0281566B73A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/CompabilityViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67D763F4-D6B6-4F60-84D4-9E04897CAF04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/ViewControllerCompability.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A990980F-C5B0-44EF-A761-A46A953102C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "477"
+            endingLineNumber = "477"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A990980F-C5B0-44EF-A761-A46A953102C5 - 3b64f320857e5fce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.DetailViewController.zodiacDetailTextView.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A990980F-C5B0-44EF-A761-A46A953102C5 - 33816c5a7387ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.DetailViewController.zodiacDetailTextView.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A990980F-C5B0-44EF-A761-A46A953102C5 - 7ef9b38aa04bbbfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.DetailViewController.zodiacDetailTextView.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "A990980F-C5B0-44EF-A761-A46A953102C5 - 1f4e3ba111a71cd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.DetailViewController.zodiacDetailTextView.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A990980F-C5B0-44EF-A761-A46A953102C5 - 4e26d76703ec79f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Horoscopes.DetailViewController"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "A990980F-C5B0-44EF-A761-A46A953102C5 - 33c58d97239eebfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Horoscopes.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Horoscopes.DetailViewController&gt;"
+                  moduleName = "Horoscopes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenducminh/Desktop/project1/Horoscopes/Horoscopes/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "901C30ED-251B-4451-A5CA-30E5CE966375"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/DruidDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFFD1892-3D5D-4BAD-895E-BCB5E46A5CD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "485"
+            endingLineNumber = "485"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41E51090-5B02-4E93-A521-BF8F6AB6B928"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/cell/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CE449E6-D73D-4A4C-8BAC-6EABF056FD47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/LanguageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D17636B-2203-4E77-A3D4-AD37BBC5402F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/LanguageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC061DE1-6680-4E90-BFF1-98228E75339E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/sideMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2DDC027-E900-4A80-82F8-602B139478D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Horoscopes/sideMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "MenuList"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

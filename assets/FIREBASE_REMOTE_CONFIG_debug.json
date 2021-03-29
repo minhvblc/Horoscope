@@ -1,0 +1,23 @@
+{
+  "banners_alloc": "a9 | inmobi_2 | a9_0 | inmobi | inmobi_0 | mopub | admob",
+  "banners_refresh": 20,
+  "banners_dismiss": "enabled=0.3 close_delay=1 active_after_days_of_usage=3",
+  "features": "+fav_sync +fav_list +fav_quota +halloween -christmas -july_fourth -fireworks -ad_reporting END",
+  "notices": "-instagram_follow -GDPR end#",
+  "GDPR_notice": "Fir test GDPR notice.\n\nTesting new line",
+  "GDPR_title": "GDPR notice.",
+  "content_update_time": "YZ=1532264571 YC=1532264571 D=1532482211 W=1532264571 M=1532264571",
+  "favorites_quota": "free=100 s=50 m=100 l=10000",
+  "iap_SKUs": "iap_launch.yearly.s iap_launch.yearly.m iap_launch.yearly.l",
+  "daily_scroll_quota": "free=7 s=7 m=10 l=14",
+  "notes_quota": "free=0 s=0 m=200 l=500",
+  "complex_key_test": "key1=111 key2= v2   key3 = 3  key4  =value4  D=1231231231   YZ= 1231231231 boolTrue=true boolYes=yes boolOn=on boolF=blah d1=0.1 quoted_str=\"This is quoted string\" quoted_str2=\"Second quoted string\" d2=13.5   d3=1.0  d4=4  d5=0.0005",
+  "analytics": "-activity end#",
+  "hard_upgrade": "os=16 build=4030200 explanation=\"HARD UPD explanation\"",
+  "soft_upgrade": "os=16  build=4030200  frequency=0.5 explanation=\"SOFT upgrade explanation\"",
+  "error_reporting": "+misc +iap +fir_rc +ebus END",
+  "meta_msg": "Using Local FirRC",
+  "end": "placeholder",
+  "yearly_horoscopes": "zodiac=\"2018 2019 2020\"  chinese=\"2018 2019 2020\"",
+  "ws_sources": "https://cdn1.tdhapp.com | http://ws2.thedailyhoroscopeapp.com"
+}
